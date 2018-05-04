@@ -1,0 +1,14 @@
+D:\C#文件\moshou\cinema\bin\Debug\cinema.exe.config
+D:\C#文件\moshou\cinema\bin\Debug\cinema.exe
+D:\C#文件\moshou\cinema\bin\Debug\cinema.pdb
+D:\C#文件\moshou\cinema\obj\Debug\cinema.csprojResolveAssemblyReference.cache
+D:\C#文件\moshou\cinema\obj\Debug\cinema.FrmMain.resources
+D:\C#文件\moshou\cinema\obj\Debug\cinema.Properties.Resources.resources
+D:\C#文件\moshou\cinema\obj\Debug\cinema.csproj.GenerateResource.Cache
+D:\C#文件\moshou\cinema\obj\Debug\cinema.exe
+D:\C#文件\moshou\cinema\obj\Debug\cinema.pdb
+D:\C#文件\moshou\cinema\bin\Debug\Interop.WMPLib.dll
+D:\C#文件\moshou\cinema\bin\Debug\AxInterop.WMPLib.dll
+D:\C#文件\moshou\cinema\obj\Debug\Interop.WMPLib.dll
+D:\C#文件\moshou\cinema\obj\Debug\AxInterop.WMPLib.dll
+D:\C#文件\moshou\cinema\obj\Debug\cinema.csproj.ResolveComReference.cache

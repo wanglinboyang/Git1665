@@ -1,0 +1,5 @@
+D:\C#文件\moshou\jieko\bin\Debug\jieko.exe.config
+D:\C#文件\moshou\jieko\bin\Debug\jieko.exe
+D:\C#文件\moshou\jieko\bin\Debug\jieko.pdb
+D:\C#文件\moshou\jieko\obj\Debug\jieko.exe
+D:\C#文件\moshou\jieko\obj\Debug\jieko.pdb

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<books>
+  <book id="001">
+    <bookName>大话设计模式</bookName>
+    <bookPrice>60</bookPrice>
+    <bookAuthor>王林博阳</bookAuthor>
+  </book>
+  <book id="002">
+    <bookName>窗边的小逗斗</bookName>
+    <bookPrice>66</bookPrice>
+    <bookAuthor>王林博阳</bookAuthor>
+  </book>
+  <book id="002">
+    <bookName>菲翔吧</bookName>
+    <bookPrice>60</bookPrice>
+    <bookAuthor>王林博阳</bookAuthor>
+  </book>
+</books>

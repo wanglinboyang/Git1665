@@ -1,0 +1,9 @@
+D:\C#文件\moshou\dome_tijian\bin\Debug\dome_tijian.exe.config
+D:\C#文件\moshou\dome_tijian\bin\Debug\dome_tijian.exe
+D:\C#文件\moshou\dome_tijian\bin\Debug\dome_tijian.pdb
+D:\C#文件\moshou\dome_tijian\obj\Debug\dome_tijian.csprojResolveAssemblyReference.cache
+D:\C#文件\moshou\dome_tijian\obj\Debug\dome_tijian.FrmMain.resources
+D:\C#文件\moshou\dome_tijian\obj\Debug\dome_tijian.Properties.Resources.resources
+D:\C#文件\moshou\dome_tijian\obj\Debug\dome_tijian.csproj.GenerateResource.Cache
+D:\C#文件\moshou\dome_tijian\obj\Debug\dome_tijian.exe
+D:\C#文件\moshou\dome_tijian\obj\Debug\dome_tijian.pdb

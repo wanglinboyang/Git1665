@@ -1,0 +1,6 @@
+D:\C#文件\moshou\io\bin\Debug\io.exe.config
+D:\C#文件\moshou\io\bin\Debug\io.exe
+D:\C#文件\moshou\io\bin\Debug\io.pdb
+D:\C#文件\moshou\io\obj\Debug\io.csprojResolveAssemblyReference.cache
+D:\C#文件\moshou\io\obj\Debug\io.exe
+D:\C#文件\moshou\io\obj\Debug\io.pdb

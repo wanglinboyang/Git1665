@@ -1,0 +1,6 @@
+D:\C#文件\moshou\dianshiji\bin\Debug\dianshiji.exe.config
+D:\C#文件\moshou\dianshiji\bin\Debug\dianshiji.exe
+D:\C#文件\moshou\dianshiji\bin\Debug\dianshiji.pdb
+D:\C#文件\moshou\dianshiji\obj\Debug\dianshiji.csprojResolveAssemblyReference.cache
+D:\C#文件\moshou\dianshiji\obj\Debug\dianshiji.exe
+D:\C#文件\moshou\dianshiji\obj\Debug\dianshiji.pdb

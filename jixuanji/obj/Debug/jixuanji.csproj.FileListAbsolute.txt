@@ -1,0 +1,10 @@
+D:\C#文件\moshou\jixuanji\bin\Debug\jixuanji.exe.config
+D:\C#文件\moshou\jixuanji\obj\Debug\jixuanji.csprojResolveAssemblyReference.cache
+D:\C#文件\moshou\jixuanji\obj\Debug\jixuanji.Form1.resources
+D:\C#文件\moshou\jixuanji\obj\Debug\jixuanji.Form2.resources
+D:\C#文件\moshou\jixuanji\obj\Debug\jixuanji.Properties.Resources.resources
+D:\C#文件\moshou\jixuanji\obj\Debug\jixuanji.csproj.GenerateResource.Cache
+D:\C#文件\moshou\jixuanji\bin\Debug\jixuanji.exe
+D:\C#文件\moshou\jixuanji\bin\Debug\jixuanji.pdb
+D:\C#文件\moshou\jixuanji\obj\Debug\jixuanji.exe
+D:\C#文件\moshou\jixuanji\obj\Debug\jixuanji.pdb

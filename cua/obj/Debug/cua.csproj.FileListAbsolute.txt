@@ -1,0 +1,11 @@
+D:\C#文件\moshou\cua\bin\Debug\cua.exe.config
+D:\C#文件\moshou\cua\bin\Debug\cua.exe
+D:\C#文件\moshou\cua\bin\Debug\cua.pdb
+D:\C#文件\moshou\cua\obj\Debug\cua.csprojResolveAssemblyReference.cache
+D:\C#文件\moshou\cua\obj\Debug\cua.Form1.resources
+D:\C#文件\moshou\cua\obj\Debug\cua.Properties.Resources.resources
+D:\C#文件\moshou\cua\obj\Debug\cua.csproj.GenerateResource.Cache
+D:\C#文件\moshou\cua\obj\Debug\cua.exe
+D:\C#文件\moshou\cua\obj\Debug\cua.pdb
+D:\C#文件\moshou\cua\bin\Debug\HelloCsharp.WinFormUI.dll
+D:\C#文件\moshou\cua\obj\Debug\cua.UserControl1.resources
